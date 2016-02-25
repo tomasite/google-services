@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_id": "default-demo-app-dcab5",
+    "project_number": "349899962334",
+    "name": "Default Demo App"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349899962334:android:57ca8f6f2b22fae5",
+        "client_id": "android:com.google.android.gms.samples.appinvite",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.appinvite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349899962334:android:502ac05016928302",
+        "client_id": "android:com.google.android.gms.samples.gcm",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.gcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
